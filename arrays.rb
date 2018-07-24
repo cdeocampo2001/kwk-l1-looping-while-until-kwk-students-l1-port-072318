@@ -1,1 +1,1 @@
-list_of_celebrities
+list_of_celebrities = ["Favs", "Lovett", "DF", "Tommy"]
