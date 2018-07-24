@@ -8,3 +8,5 @@ puts list_of_PSA_cohosts << "Sam Power"
 puts list_of_PSA_cohosts
 
 list_of_PSA_cohosts[1] = "Alyssa Mastramonaco"
+
+puts list_of_PSA_cohosts
